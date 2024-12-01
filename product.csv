@@ -1,0 +1,11 @@
+"prodID","prodName","category","price","qty"
+1,"Laptop","Electronics",50000,50
+2,"Phone","Electronics",30000,150
+3,"TV","Electronics",40000,100
+4,"Table","Furniture",5000,200
+5,"Chair","Furniture",1500,300
+6,"Mouse","Accessories",800,100
+7,"Keyboard","Accessories",1000,120
+8,"Monitor","Electronics",7000,90
+9,"Sofa","Furniture",25000,110
+10,"Bed","Furniture",15000,80
